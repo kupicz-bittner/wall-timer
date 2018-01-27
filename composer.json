@@ -3,6 +3,7 @@
   "description": "Simple library for count script execution time",
   "type": "library",
   "license": "MIT",
+  "version": "master",
   "authors": [
     {
       "name": "Radek Bittner",
