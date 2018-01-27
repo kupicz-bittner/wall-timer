@@ -2,7 +2,7 @@
   "name": "bita-sk/wall-timer",
   "description": "Simple library for count script execution time",
   "type": "library",
-  "license": "free",
+  "license": "GPL",
   "authors": [
     {
       "name": "Radek Bittner",
