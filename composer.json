@@ -1,0 +1,23 @@
+{
+  "name": "bitask/wall-timer",
+  "description": "Simple library for count script execution time",
+  "type": "library",
+  "license": "free",
+  "authors": [
+    {
+      "name": "Radek Bittner",
+      "email": "bita.radek@seznam.cz"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "WallTimer\\": "src"
+    }
+  }
+}
