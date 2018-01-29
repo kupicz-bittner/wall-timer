@@ -4,6 +4,7 @@
   "type": "library",
   "license": "MIT",
   "version": "1.0.0",
+  "reference":"dev-master"
   "authors": [
     {
       "name": "Radek Bittner",
